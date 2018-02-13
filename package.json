@@ -37,5 +37,8 @@
     "babel-preset-latest": "^6.24.1",
     "jest": "^22.2.2",
     "watch": "^1.0.2"
+  },
+  "dependencies": {
+    "np": "^2.20.0"
   }
 }
